@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "162049479093",
+    "firebase_url": "https://loopcode-25d90-default-rtdb.firebaseio.com",
+    "project_id": "loopcode-25d90",
+    "storage_bucket": "loopcode-25d90.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162049479093:android:ff5577728fec18cf5489fc",
+        "android_client_info": {
+          "package_name": "com.example.loopcode"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfKofmxDp1P1JRA7-SCMxUCDMcP7PZOM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

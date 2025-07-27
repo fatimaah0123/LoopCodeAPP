@@ -1,0 +1,24 @@
+{
+  "name": "loopcode",
+  "version": "1.0.0",
+  "description": "A new Flutter project.",
+  "homepage": "https://github.com/fatimaah0123/LoopCodeAPP#readme",
+  "bugs": {
+    "url": "https://github.com/fatimaah0123/LoopCodeAPP/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fatimaah0123/LoopCodeAPP.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

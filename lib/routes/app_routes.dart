@@ -10,15 +10,12 @@ import '../pages/editor/code_editor_page.dart';
 
 class AppRoutes {
   static final routes = {
-    '/': (context) => const DashboardPage(),
+    // '/': (context) => const DashboardPage(),
     '/materi': (context) => const MateriPage(),
     '/materi-detail': (context) => const MateriDetailPage(),
     '/solo-quiz': (context) => const SoloQuizPage(),
     '/battle-quiz': (context) => const BattleQuizPage(),
     '/code-editor': (context) => const CodeEditorPage(),
-    // TODO: Tambahkan rute untuk halaman lainnya
-    // '/profile': (context) => ProfilePage(),
-    // '/leaderboard': (context) => LeaderboardPage(),
   };
 
   // Method untuk navigasi dengan parameter
